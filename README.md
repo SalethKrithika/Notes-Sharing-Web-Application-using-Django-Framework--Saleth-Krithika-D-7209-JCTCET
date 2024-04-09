@@ -41,6 +41,4 @@ Step 2
 Build your code 🔨🔨🔨
 Step 3
 
-pull request
-Stepullp 3
 🔃 Create a new pull request.
