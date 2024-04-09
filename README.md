@@ -5,7 +5,7 @@ Django Music Player is a simple web application built with Django that allows us
 GitHub stars Maintenance Website shields.io License
 
 Installation 📦
-To install Django Music Player, follow these steps:
+To install Django Notes sharing web application, follow these steps:
 1. Clone this repository:
 
 2. Navigate to the project directory:
